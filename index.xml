@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CATS Applicant Tracking System</title>
+    <title>My blog</title>
     <link>https://dk-cats.github.io/</link>
-    <description>Recent content on CATS Applicant Tracking System</description>
+    <description>Recent content on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Everything is mine</copyright>
     <lastBuildDate>Tue, 11 Aug 2020 21:49:37 +0800</lastBuildDate>
     
 	<atom:link href="https://dk-cats.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -30,7 +31,7 @@ Link</description>
       
       <guid>https://dk-cats.github.io/thank-you/</guid>
       <description>We&amp;rsquo;re so grateful you&amp;rsquo;ve decided to give our recruiting software a try&amp;hellip; We know you won&amp;rsquo;t be disappointed! You should receive an email shortly~
- ## But what should you do next? Step 1. Confirm your email
+ But what should you do next? Step 1. Confirm your email
 Step 2. Provide a few more details for your testing site environment
 Step 3. Start poking around!
 And of course, let us know if you have any questions about anything.
